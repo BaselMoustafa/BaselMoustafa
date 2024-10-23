@@ -15,7 +15,7 @@ ___
 [![Youtube Icon](https://camo.githubusercontent.com/6a4d47c20e767f1cd370762b5da60a005673f3655aa182fda047e07f2a40bbd6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f796f75747562652d4646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465)](https://www.youtube.com/channel/UCylWI6oOCP8M8bJsT9CGVsw)  [![LinkedIn Icon](https://camo.githubusercontent.com/5eb14fe47963eb6b66a11125d7ece83551a4ce7f01a62714e920120a1086a878/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373762352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/basel-moustafa-943050248/) [![Facebook Icon](https://camo.githubusercontent.com/155b9f20f4a0a3f587b3846d54e1e1160e84bdfbace82dafb6daca9213e3807d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3432363742322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465)](https://www.facebook.com/basel.mostafa.33) [![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=basel.moustafa2000@gmail.com)
 ### Samples from my projects
 ___
-#### Cheat The Diet
+### Cheat The Diet
 
 
 Tired of restrictive diets that leave you craving your favorite foods?
